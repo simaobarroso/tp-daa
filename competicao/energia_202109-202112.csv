@@ -1,4 +1,4 @@
-Data,Hora,Normal (kWh),Horário Económico (kWh),Autoconsumo (kWh),Injeção na rede (kWh)
+Data,Hora,Normal (kWh),Horario Economico (kWh),Autoconsumo (kWh),Injecao na rede (kWh)
 2021-09-29,00,0,0,0,None
 2021-09-29,01,0,0,0,None
 2021-09-29,02,0,0,0,None
