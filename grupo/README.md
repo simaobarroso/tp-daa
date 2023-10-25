@@ -2,6 +2,10 @@
 
 ### Dataset NBA : PREVER A ALTURA (OU OUTRO CENA) CONSOANTE OS OUTROS DADOS -> PROBLEMA DE REGRESSAO
 
+#### LINK DATASET
+https://www.kaggle.com/datasets/salilchoubey/electrity-prices
+
+ANTIGO
 https://www.kaggle.com/datasets/justinas/nba-players-data
  
  
