@@ -1,4 +1,10 @@
 # ESCOLHER DATASET A TRABALHAR
+
+### Dataset NBA : PREVER A ALTURA (OU OUTRO CENA) CONSOANTE OS OUTROS DADOS -> PROBLEMA DE REGRESSAO
+
+https://www.kaggle.com/datasets/justinas/nba-players-data
+ 
+ 
 VER SUGESTÕES DISCORD + KAGGLE
 
 Bom dia, professor.
