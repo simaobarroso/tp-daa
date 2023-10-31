@@ -1,33 +1,29 @@
-# ESCOLHER DATASET A TRABALHAR
 
-### Dataset NBA : PREVER A ALTURA (OU OUTRO CENA) CONSOANTE OS OUTROS DADOS -> PROBLEMA DE REGRESSAO
+dataset escolhido: https://www.kaggle.com/datasets/thedevastator/uncovering-the-most-cost-effective-mlb-hitters-o 
 
-#### LINK DATASET
-https://www.kaggle.com/datasets/salilchoubey/electrity-prices
 
-ANTIGO
-https://www.kaggle.com/datasets/justinas/nba-players-data
- 
- 
-VER SUGESTÕES DISCORD + KAGGLE
+Boa noite, professor.
 
-Bom dia, professor.
+Continuamos com dúvidas em relação ao dataset da tarefa de grupo e pedimos se nos podia esclarecer.
 
-O nosso grupo (grupo_MEI_25) está em dúvida em relação à escolha de datasets para a tarefa de dataset grupo. Pedimos se, por favor, nos podia dar a sua opinião sobre se considerava algum destes interessantes.
+As nossas dúvidas residem no número de linhas e de colunas que cada dataset deve ter.
+Em relação a linhas, alguns dos datasets que mandamos anteriormente tinham cerca de 800. Há algum número mínimo de linhas para evitar por exemplo problemas como overfitting?
+Em relação ao número de colunas, o professor tinha-nos dito que caso o dataset tenha um número de colunas muito grande, escolhemos apenas as 20 mais relevantes.
+Para a escolha destas baseamo-nos nas que achamos que podem ser as 20 mais relevantes no tema ou vemos as que tem mais correlação com a variável a verificar?
 
-Uma vez que o dataset de competição é um problema de classificação, tentamos encontrar alguns datasets com problemas de regressão.
-Tentamos procurar datasets de temas que achassemos interessantes e de tamanho considerável.
+Mandamos também em baixo o link de alguns datasets que pedimos se o professor podia confirmar se podem ser utilizados.
+Tentamos arranjar problemas de regressão.
 
-O primeiro dataset que encontramos foi o seguinte: https://www.kaggle.com/datasets/camnugent/predict-nhl-player-salaries/data
-Neste dataset iriamos tentar prever o salário de um jogador de hóquei no gelo da liga americana consoante as suas estatísticas, ano de nascimento, nacionalidade, etc.
-O nosso interesse com este dataset foi devido ao facto de com este dataset podemos mostrar o aprendido em aulas. Sendo uma liga com salary cap, pode ser que nem sempre os jogadores com melhores estatísticas serão o que recebem mais.
-Estas e outras complexidades inerentes a este dataset nos chamaram a atenção.
+Prever o GDP :
+ https://www.kaggle.com/datasets/prasad22/global-economy-indicators
 
-O segundo dataset que encotramos é o seguinte: https://www.kaggle.com/datasets/tiwariayan/fifa-players-dataset
-Neste segundo dataset iriamos tentar prever o overral de um jogador no jogo FIFA21 consoante as suas outras carecterísticas.
+Tentar prever Critic Score:
+https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings
 
-O último dataset é: https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification
-Neste iriamos tentar prever o preço de um telemóvel consoante as suas características.
-Seria interessante para podermos poder verificar (ou não) se realmente o preço é indicativo das especificações.
+Tentar prever o salário dos jogadores de basebol:
+https://www.kaggle.com/datasets/thedevastator/uncovering-the-most-cost-effective-mlb-hitters-o
 
-Muito obrigado!
+
+Cumprimentos,
+Grupo 25
+
