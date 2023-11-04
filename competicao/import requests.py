@@ -69,8 +69,22 @@ for file_name in files:
             dia = match.group(1)  # "11-28"
             sunrise = match.group(2)  # "07:37"
 
-        #sunrise = row.find_all('time')[1].text
+        pattern = r'(\d{2}):(\d{2})'
+        match = re.search(pattern, sunrise)
+        if int(match.group(2))>0:
+            sunrise=int(match.group(1))+1
+        else:
+            sunrise=int(match.group(1))
+        
+
         sunset = row.find_all('time')[2].text
+
+        match = re.search(pattern, sunset)
+        if int(match.group(2))>0:
+            sunset=int(match.group(1))+1
+        else:
+            sunset=int(match.group(1))
+
         dias.append(dia)
         sunrises.append(sunrise)
         sunsets.append(sunset)
