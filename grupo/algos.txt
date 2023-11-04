@@ -1,0 +1,17 @@
+GitHub Copilot: Sure, here are some commonly used algorithms for regression problems:
+
+1. **Linear Regression**: It's the simplest form of regression. It assumes a linear relationship between the input variables (X) and the single output variable (Y).
+
+2. **Ridge Regression**: It's a technique used when the data suffers from multicollinearity (independent variables are highly correlated). It performs L2 regularization, i.e., it adds a factor of the sum of the squares of the coefficients in the optimization objective.
+
+3. **Lasso Regression**: It performs L1 regularization, i.e., it adds a factor of the sum of the absolute values of the coefficients in the optimization objective. This can result in sparse models where some feature coefficients can become zero and eliminated from the model.
+
+4. **Decision Tree Regression**: It uses a decision tree to go from observations about an item to conclusions about the item's target value.
+
+5. **Random Forest Regression**: It's a type of ensemble learning method, where a group of weak models combine to form a powerful model. In Random Forest Regression, a set of decision trees are trained on different subsets of the dataset and the average prediction of the trees is used as the final prediction.
+
+6. **Support Vector Regression (SVR)**: It's a type of Support Vector Machine that supports linear and non-linear regression.
+
+7. **Neural Network Regression**: Neural networks can also be used for regression problems. Multi-layer Perceptrons (MLPs) are a type of neural network that can be used for regression.
+
+Remember to choose the right algorithm based on the nature of your data and the problem you're trying to solve.
