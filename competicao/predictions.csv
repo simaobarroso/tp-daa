@@ -902,7 +902,7 @@ RowId,Result
 901,Medium
 902,High
 903,Medium
-904,High
+904,Medium
 905,Low
 906,None
 907,None
@@ -974,7 +974,7 @@ RowId,Result
 973,Medium
 974,High
 975,High
-976,Medium
+976,High
 977,Medium
 978,None
 979,None
@@ -1408,7 +1408,7 @@ RowId,Result
 1407,High
 1408,Medium
 1409,Medium
-1410,Low
+1410,None
 1411,None
 1412,None
 1413,None
@@ -1494,7 +1494,7 @@ RowId,Result
 1493,None
 1494,None
 1495,None
-1496,None
+1496,Low
 1497,Medium
 1498,High
 1499,High
@@ -2126,7 +2126,7 @@ RowId,Result
 2125,Medium
 2126,Medium
 2127,Medium
-2128,Medium
+2128,High
 2129,High
 2130,Low
 2131,None
